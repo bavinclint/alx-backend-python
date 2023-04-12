@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Define variables'
+git commit -m 'Complex types - list of floats'
 git push
