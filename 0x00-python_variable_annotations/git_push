@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Complex types - list of floats'
+git commit -m 'Complex types - mixed list'
 git push
