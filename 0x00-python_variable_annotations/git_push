@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "More involved type annotations"
+git commit -m "Type Checking"
 git push
