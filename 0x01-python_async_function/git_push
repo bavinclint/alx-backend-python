@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Let's execute multiple coroutines at the same time with async"
+git commit -m "Measure the runtime"
 git push
