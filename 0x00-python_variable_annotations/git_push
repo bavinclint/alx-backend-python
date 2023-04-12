@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Duck typing - first element of a sequence"
+git commit -m "More involved type annotations"
 git push
