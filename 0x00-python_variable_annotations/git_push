@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Complex types - functions'
+git commit -m "Let's duck type an iterable object"
 git push
